@@ -8,6 +8,6 @@ public class ClientMain {
         GameClient gc = new GameClient();                       
         System.out.println("GameClient constructed");
         gc.connect();
-        System.out.println("connect() returned, main ends");            // unchanged; no auto JOIN now
+        System.out.println("connect() returned, main ends");
     }
 }

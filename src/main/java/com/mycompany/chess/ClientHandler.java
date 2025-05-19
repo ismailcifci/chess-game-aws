@@ -124,7 +124,7 @@ public class ClientHandler extends Thread {
     }
 
     public String waitForMove() throws IOException {
-        return in.readLine(); // Simple implementation
+        return in.readLine();
     }
 
     public void close() throws IOException {
