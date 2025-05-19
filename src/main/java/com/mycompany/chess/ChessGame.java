@@ -379,8 +379,8 @@ public class ChessGame {
             return;
         }
 
-        /* 1.  clear any old en-passant opportunity ------------------- */
-        enPassantTarget = null;          // ← NEW LINE
+        /* clear any old en-passant opportunity ------------------- */
+        enPassantTarget = null;
 
         
         PieceType promoType = null;
