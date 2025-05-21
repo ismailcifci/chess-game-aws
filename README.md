@@ -114,15 +114,6 @@ OnlineChess
 
 ---
 
-## 🔮 Future Improvements
-
-- Player statistics and rankings.
-- Chat functionality and social integrations.
-- Cross-platform (mobile/web) support.
-- Enhanced scalability.
-
----
-
 ## 📄 Documentation
 
 - Detailed Project Report
